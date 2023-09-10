@@ -1,0 +1,12 @@
+name: hack-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pip==22.3.1
+  - python==3.8.16
+
+  - pip:
+    - ipykernel==6.20.2
+    - notebook==6.5.2
+    - -r requirements.txt
