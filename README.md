@@ -6,7 +6,7 @@
     <br>
     :recycle: :earth_americas: Eco Sage :earth_americas: :recycle:
     <br>
-    <img src="https://github.com/StarrySkyrs-AltaML/EcoSage/assets/82040820/e983a1e5-4b46-4990-98e3-9bb75270e1fa" width="150" height="300">
+    <img src="https://github.com/StarrySkyrs-AltaML/EcoSage/blob/main/docs/EcoSage.png" width="150" height="300">
 
   <h1> 
 <p>
@@ -23,7 +23,7 @@ Welcome to the :recycle::earth_americas: Eco Sage :earth_americas::recycle: hack
 ## Project Overview :rocket:
 
 In this hackathon project, we are building a recycling app that consists of three main components: image segmentation, image captioning, and recycling instructions generation. The web app is launched using Streamlit. 
-![Copy of DisposeCam drawio](https://github.com/StarrySkyrs-AltaML/EcoSage/assets/82040820/1edfb9b4-50b0-463c-a938-fbb25e857bb7)
+![workflow](https://github.com/StarrySkyrs-AltaML/EcoSage/blob/main/docs/Copy%20of%20DisposeCam.drawio.png)
 
 
 ### 1️⃣ Image Segmentation
